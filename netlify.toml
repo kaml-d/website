@@ -1,5 +1,5 @@
 [build]
-publish = "kamld-home"
+publish = "kamld-home/public"
 command = "hugo"
 
 [context.production.environment]
