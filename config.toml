@@ -6,7 +6,7 @@ googleAnalytics = ""
 
 [params]
     author = "Michael Hausenblas"
-    description = "Kubernetes Advanced Machine Learning & Data Engineering Platform"
+    description = "This is the <br> _Kubernetes Advanced Machine Learning and Data engineering_ (KAML-D) platform.<br><br>Learn about [why and where to use it](what/) or simply start using it by [downloading it here](download/) …"
     githubUsername = "kaml-d"
     accent = "red"
     showBorder = true
@@ -23,12 +23,14 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/what"
-    name = "What?"
+    identifier = "what"
+    name = "What is this about?"
     weight = 2
 
 [[menu.main]]
     url = "/download"
-    name = "Download"
+    identifier = "download"
+    name = "Download & install"
     weight = 3
 
 # Social icons to be shown on the right-hand side of the navigation bar
