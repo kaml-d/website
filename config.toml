@@ -6,7 +6,7 @@ googleAnalytics = ""
 
 [params]
     author = "Michael Hausenblas"
-    description = "This is the <br> _Kubernetes Advanced Machine Learning and Data engineering_ (KAML-D) platform.<br><br>Learn about [why and where to use it](what/) or simply start using it by [downloading it here](download/) …"
+    description = "This is the <br> _Kubernetes Advanced Machine Learning and Data engineering_ platform.<br><br>Learn about [why and where to use it](what/) or simply start using it by [downloading it here](download/) …"
     githubUsername = "kaml-d"
     accent = "red"
     showBorder = true

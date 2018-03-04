@@ -96,5 +96,7 @@ footer {
 }
 
 img {
-    max-width: 100%;
+    max-width: 80%;
+    margin: 50px 60px 50px 60px;
+    text-align: center;
 }
