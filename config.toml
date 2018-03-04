@@ -22,12 +22,12 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.main]]
-    url = "/pages/what"
+    url = "/what"
     name = "What?"
     weight = 2
 
 [[menu.main]]
-    url = "/pages/download"
+    url = "/download"
     name = "Download"
     weight = 3
 
